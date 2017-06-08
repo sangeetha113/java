@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class positive_negative
+class pos_neg
 {
 public static void main(String args[])
 {
