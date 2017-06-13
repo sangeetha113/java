@@ -17,8 +17,9 @@ class Gcd
             n2=r;
         }
             int gcd=n1;
+        int lcm=(x*y)/gcd;
             
         
-        System.out.println(gcd+" ");
+        System.out.println(lcm+" ");
     }
 }
