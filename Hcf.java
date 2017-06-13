@@ -1,5 +1,5 @@
 import java.util.*;
-class Gcd
+class Hcf
 {
     public static void main(String args[])
     {
